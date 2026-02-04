@@ -1,0 +1,12 @@
+*.txt
+*.md
+
+__pycache__/
+.pyc
+.idea/
+.vscode/
+.DS_Store
+
+
+# Ignore all custom addons repos
+custom_addons/sale_multi_level_approval/
